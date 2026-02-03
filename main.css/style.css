@@ -1,3 +1,20 @@
-.container/label/input{
-    display: flex;
+.label{
+    display: flex;;
+    gap: 10px;
+}
+.label h3{
+    background-position: center;
+    color : black
+}
+#Search {
+    height : 30px;
+    margin-left: auto;
+}
+button{
+    width : 60;
+    height : 30px;
+}
+/* đây là code của hàng đầu tiên */
+.introduce{
+    background-color: blue
 }
