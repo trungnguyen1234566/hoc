@@ -16,5 +16,7 @@ button{
 }
 /* đây là code của hàng đầu tiên */
 .introduce{
-    background-color: blue
+    background-color: blue;
+    width:100%;
+    height:60px;;
 }
