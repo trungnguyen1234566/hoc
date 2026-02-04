@@ -14,9 +14,38 @@ button{
     width : 60;
     height : 30px;
 }
+
 /* đây là code của hàng đầu tiên */
-.introduce{
-    background-color: blue;
-    width:100%;
-    height:60px;;
+table{
+    border: 0px;
+}
+
+table thead {
+    background-color: rgb(14, 14, 77);
+}
+
+table thead #title {
+    color :white;
+}
+
+#title{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Add {
+    background-color: rgb(40, 225, 40);
+}
+#Delete {
+    background-color: red;
+    margin-left: auto;
+}
+
+#first{
+    display: flex;
+    justify-content: space-between;
+}
+td{
+    display: flex;
+    justify-content: space-between;
 }
